@@ -1,0 +1,2 @@
+# Capstone-Project-Dark-Web-Investigation-Intelligence-Gathering
+This capstone project simulated a real-world law enforcement dark web investigation, focused on identifying and gathering intelligence on individuals involved in illegal drug trafficking operating via the TOR network. The objective was to access a covert dark web platform, analyze activity, and extract intelligence to support criminal attribution.
